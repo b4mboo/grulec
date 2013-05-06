@@ -1,7 +1,7 @@
 grulec
 ======
 
-Automate lexer compilation for Gherkin's Ruby lexer.
+Automate Gherkin's Ruby lexer compilation.
 
 
 ***Background:***
